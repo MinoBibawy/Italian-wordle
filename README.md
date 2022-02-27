@@ -1,2 +1,3 @@
 # Italian-worle
-##Heading 2 link [Heading link](https://italianwordleclone.netlify.app/ "Heading link")
+<br>
+(https://italianwordleclone.netlify.app/ "Click to play - Gioca ora")
